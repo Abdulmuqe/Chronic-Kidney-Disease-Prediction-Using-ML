@@ -157,3 +157,6 @@ Perform the hyperparameter tuning to avoid the overfitting in model.
 ## 7. Deploy model on website
 Create website using flask and use model for prediction.
 
+## 8. To Run Website 
+Install Xampp And Paste the Website Folder in htdocs and Run the folder.
+
